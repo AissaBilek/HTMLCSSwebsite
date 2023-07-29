@@ -1,2 +1,2 @@
 # HTMLCSSwebsite
-a basic htmlcss Website
+a basic htmlcss project.
